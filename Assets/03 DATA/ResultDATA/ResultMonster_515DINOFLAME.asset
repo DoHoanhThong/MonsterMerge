@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_515DINOFLAME
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: PYROREX
+  monster_rarity: EPIC
+  monster_id: 515
+  monster_ability: 'The Pyrorex possesses an array of devastating abilities that
+    make it a force to be reckoned with. It can breathe scorching flames that can
+    reduce anything in their path to ashes, enveloping its prey or enemies in an
+    unrelenting inferno. Its massive jaws are lined with razor-sharp teeth that can
+    tear through the toughest of defenses, while the intense heat emanating from
+    its body can melt even the sturdiest of structures. The Pyrorex can unleash seismic
+    shockwaves, causing the earth to tremble and crack, further adding to the chaos
+    it leaves in its wake. '
+  monster_location: 'The Pyrorex is often found in volcanic regions and fiery landscapes
+    where the earth''s inner power intertwines with the destructive force of fire.
+    It seeks out areas where the heat is intense and the terrain is rugged. Active
+    volcanoes, geothermal regions, and scorched wastelands become its domain. The
+    Pyrorex''s presence is marked by plumes of smoke, rivers of lava, and a sense
+    of impending doom. '
+  monster_lifespan: The lifespan of a Pyrorex is shrouded in mystery, transcending
+    the bounds of conventional understanding.

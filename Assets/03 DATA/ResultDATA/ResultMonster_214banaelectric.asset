@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_214banaelectric
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: BANECTRIC
+  monster_rarity: COMMON
+  monster_id: 214
+  monster_ability: 'The Banectric possesses a remarkable and potent ability derived
+    from the fusion of banana and electricity. It can generate, store, and discharge
+    electricity, harnessing its power for various purposes. The creature''s touch
+    can deliver a mild electric shock or a powerful surge, depending on its intention.
+    It can emit electrical discharges that can stun or immobilize adversaries, using
+    its electrified presence both defensively and offensively. Additionally, the
+    Banectric has the unique ability to absorb and convert electrical energy from
+    its surroundings, allowing it to replenish its own power reserves. '
+  monster_location: 'The Banectric can be found in regions where the realms of bananas
+    and electricity intersect. It is often drawn to areas with abundant electrical
+    energy, such as power plants, electrical substations, or regions with strong
+    electromagnetic fields. The creature seeks out places where it can harness and
+    manipulate electricity, utilizing its powers to their fullest potential. It also
+    demonstrates an affinity for tropical or subtropical environments, reflecting
+    its banana essence. '
+  monster_lifespan: The lifespan of a Banectric is comparable to that of a regular
+    banana or the lifespan of an electrical device, typically ranging from a few
+    weeks to a few months.

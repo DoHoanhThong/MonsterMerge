@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_810OWLPHOENIX
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: OWLOX
+  monster_rarity: EPIC
+  monster_id: 810
+  monster_ability: 'The Owlox possesses a remarkable special ability: regeneration
+    and heightened intuition. Drawing inspiration from its phoenix lineage, the Owlox
+    has the ability to regenerate its body from the ashes, making it nearly invincible
+    in battle. Additionally, it inherits the heightened intuition and wisdom of an
+    owl, making it a creature of great insight and perception. This unique combination
+    of abilities makes the Owlox a creature of both regeneration and wisdom. '
+  monster_location: 'The Owlox can be found in regions that offer a combination of
+    diverse habitats and ample prey. It is often drawn to areas where the natural
+    habitats of owls intersect with the mystical domains associated with phoenixes.
+    The Owlox thrives in environments such as forests, mountains, and deserts, where
+    it can utilize its wisdom and regenerative powers to hunt and defend its territory.
+    It can be seen soaring through the sky or perched high on a tree, exhibiting
+    a unique combination of owl-like wisdom and phoenix-like majesty. '
+  monster_lifespan: The lifespan of the Owlox is influenced by various factors, including
+    its genetic makeup and the environment it inhabits. While specific durations
+    can vary, Owlox possess a prolonged lifespan due to their owl and phoenix heritage.
+    They can live for several centuries, with some individuals potentially enduring
+    for millennia.

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_514dinoelec
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 5
+  monster_name: E-REX
+  monster_rarity: 'SUPER RARE '
+  monster_id: 514
+  monster_ability: 'The E-Rex possesses a unique and devastating ability derived
+    from the fusion of T-rex and electricity. It can generate and discharge immense
+    amounts of electricity with extraordinary control. The creature''s scales crackle
+    with electrical energy, providing it with a natural defense and intimidating
+    appearance. It can channel electricity through its massive jaws, unleashing powerful
+    electrically charged bites that can incapacitate or electrocute prey. The E-Rex
+    can also create thunderous stomps, generating powerful shockwaves that can disorient
+    or immobilize adversaries. Additionally, it can emit electrical pulses from its
+    body, creating an electrified field that repels or paralyzes threats. '
+  monster_location: 'The E-Rex can be found in regions where the realms of ancient
+    dinosaurs and electricity intersect. It is often drawn to areas with a mix of
+    dense forests, such as tropical rainforests with intense electrical storms or
+    places with a significant presence of electrical phenomena. The creature seeks
+    out locations where it can blend into its surroundings and utilize its electrifying
+    abilities for hunting and asserting its dominance. It is known to establish its
+    territory in secluded areas with abundant prey and suitable nesting grounds,
+    reflecting its dinosaur essence. '
+  monster_lifespan: The lifespan of an E-Rex is estimated to be similar to that of
+    a regular T-rex, which is believed to be around 20 to 30 years in the wild.

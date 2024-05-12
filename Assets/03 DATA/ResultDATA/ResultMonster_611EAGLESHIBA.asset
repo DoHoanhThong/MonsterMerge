@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_611EAGLESHIBA
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: SHIBEA
+  monster_rarity: EPIC
+  monster_id: 611
+  monster_ability: 'The Shibea possesses a remarkable special ability: heightened
+    senses and loyalty. Drawing inspiration from its Shiba Inu lineage, the Shibea
+    has the ability to detect scents and sounds with remarkable accuracy, making
+    it an excellent tracker. Additionally, it inherits the loyalty and playfulness
+    of a Shiba Inu, making it a friendly and faithful companion. This unique combination
+    of abilities makes the Shibea a creature of both perceptiveness and loyalty. '
+  monster_location: 'The Shibea can be found in regions that offer a combination
+    of diverse habitats and ample food sources. It is often drawn to areas where
+    the natural habitats of Shiba Inus intersect with the open skies associated with
+    eagles. The Shibea thrives in environments such as forests, mountains, and grasslands,
+    where it can utilize its aerial prowess and heightened senses to hunt and defend
+    its territory. It can be seen playing fetch with its owner or soaring through
+    the sky, exhibiting a unique combination of Shiba Inu-like loyalty and eagle-like
+    adventurism. '
+  monster_lifespan: Shibea possess a prolonged lifespan due to their Shiba Inu and
+    eagle heritage. They can live for several decades, with some individuals potentially
+    enduring for a century or more.

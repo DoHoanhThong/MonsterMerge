@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_1115shibaflame
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 10
+  monster_name: INFERNO SHIBA
+  monster_rarity: SUPREME
+  monster_id: 1115
+  monster_ability: 'The Inferno Shiba possesses a unique ability to manipulate and
+    harness flames with remarkable dexterity. It can conjure fireballs that it playfully
+    tosses around, creating a mesmerizing display of dancing flames. The Inferno
+    Shiba''s paws emit a gentle heat, allowing it to leave fiery footprints or scorch
+    the ground with each step. It can also emit fiery barks that resonate with an
+    enchanting warmth, captivating those who hear it. Additionally, the Inferno Shiba
+    has an innate sense of fire-related phenomena, enabling it to navigate through
+    smoke and detect hidden sources of heat. '
+  monster_location: 'The Inferno Shiba is often found in places where fire is naturally
+    present or where the element of fire is celebrated. It seeks out warm and fiery
+    environments, such as volcanic regions, hot springs, or even bonfire gatherings.
+    The creature is drawn to locations where the contrast between its fiery nature
+    and the surrounding environment is most pronounced. It can also be found in areas
+    where the vibrant colors of autumn foliage mirror its fiery coat. '
+  monster_lifespan: The lifespan of an Inferno Shiba is similar to that of a regular
+    Shiba Inu, averaging between 12 to 15 years.

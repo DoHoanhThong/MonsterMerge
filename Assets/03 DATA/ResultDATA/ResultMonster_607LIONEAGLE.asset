@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_607LIONEAGLE
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 10
+  monster_name: GRIFFIN
+  monster_rarity: SUPREME
+  monster_id: 607
+  monster_ability: 'The Griffin possesses a remarkable special ability: flight and
+    enhanced senses. Drawing inspiration from its eagle lineage, the Griffin has
+    the ability to soar through the skies with ease, covering great distances in
+    search of prey and foes. Additionally, it inherits the enhanced senses of a lion,
+    including exceptional eyesight and hearing, capable of detecting even the slightest
+    movements and sounds. This unique combination of abilities makes the Griffin
+    a creature of both agility and perception. '
+  monster_location: 'The Griffin can be found in regions that offer a combination
+    of diverse habitats and expansive territories. It is often drawn to areas where
+    the natural habitats of lions intersect with the open skies associated with eagles.
+    The Griffin thrives in environments such as savannas, deserts, and mountain ranges,
+    where it can utilize its aerial advantage and heightened senses to hunt and defend
+    its territory. It can be seen soaring through the skies or prowling through the
+    grasslands, exhibiting a unique combination of lion-like bravery and eagle-like
+    grace. '
+  monster_lifespan: Griffin possess a prolonged lifespan due to their lion and eagle
+    heritage. They can live for several decades, with some individuals potentially
+    enduring for a century or more.

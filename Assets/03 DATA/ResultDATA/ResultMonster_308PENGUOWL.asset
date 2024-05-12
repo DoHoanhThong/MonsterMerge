@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_308PENGUOWL
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: OWLINGUIN
+  monster_rarity: RARE
+  monster_id: 308
+  monster_ability: 'The Owlinguin possesses a remarkable special ability: the power
+    of strength and agility. Drawing inspiration from its lion lineage, the Owlinguin
+    boasts a muscular physique and powerful limbs, allowing it to exhibit incredible
+    strength. It can pounce upon its prey with astonishing speed and precision, channeling
+    the hunting prowess of a lion. Additionally, the Pengion Monster maintains the
+    agility and grace of a penguin, enabling it to navigate diverse terrains and
+    swiftly maneuver through its environment. '
+  monster_location: 'The Owlinguin is often found in regions that offer a combination
+    of coastal areas and grasslands. It is particularly drawn to areas where the
+    marine habitats of penguins meet with the vast savannahs or grassy plains favored
+    by lions. The Owlinguin thrives in environments such as rocky coastlines, sandy
+    beaches, and open grasslands, where it can utilize both its swimming and running
+    abilities. It can be seen gracefully swimming through the waters or striding
+    with a distinct combination of penguin-like agility and lion-like power. '
+  monster_lifespan: The lifespan of the Owlinguin is influenced by various factors,
+    including its genetic makeup and the environment it inhabits. While specific
+    durations can vary, Owlinguin generally have a lifespan comparable to that of
+    lions. This can range from 10 to 15 years

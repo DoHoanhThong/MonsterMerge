@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_212BANANASNAKE
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: BANAKE
+  monster_rarity: COMMON
+  monster_id: 212
+  monster_ability: 'The Banake Monster possesses a remarkable special ability: the
+    power of camouflage. Drawing inspiration from its snake lineage, the Banake Monster
+    can change the color and pattern of its skin to blend seamlessly with its surroundings.
+    It can mimic the vibrant yellow of a ripe banana or adopt the earthy tones of
+    its environment, allowing it to remain hidden and undetected. This ability grants
+    the Banake Monster a heightened sense of stealth and survival, making it an elusive
+    and cunning predator.'
+  monster_location: The Banake Monster is often found in regions that offer a combination
+    of tropical vegetation and diverse ecosystems. It is particularly drawn to environments
+    where the tropical essence of bananas coexists with dense forests, jungles, or
+    grasslands. The Banake Monster thrives in areas such as rainforests, lush gardens,
+    and riverbanks, where it can utilize its camouflage abilities to their fullest
+    potential. It can slither silently through its habitat, its banana-like features
+    blending seamlessly with the foliage.
+  monster_lifespan: The lifespan of the Banake Monster is influenced by a variety
+    of factors, including its genetic makeup and the environment it inhabits. While
+    specific durations can vary, Banake Monsters generally have a lifespan comparable
+    to that of snakes. This can range from 15 to 30 years, with some individuals
+    potentially living longer.

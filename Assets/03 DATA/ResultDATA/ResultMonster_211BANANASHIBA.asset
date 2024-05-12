@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_211BANANASHIBA
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: SHIBANA
+  monster_rarity: RARE
+  monster_id: 211
+  monster_ability: 'The Shibana possesses a unique and delightful special ability:
+    the power of banana transformation. Drawing inspiration from its banana heritage,
+    the Baniba Monster can transform its appearance into that of a banana at will.
+    It can seamlessly mimic the shape, color, and texture of a ripe banana, allowing
+    it to blend in with its surroundings or surprise unsuspecting onlookers. This
+    ability adds an element of surprise and amusement to its interactions, making
+    it a creature of joy and playfulness.'
+  monster_location: The Shibana is often found in regions that offer a combination
+    of tropical beauty and playful environments. It is particularly drawn to areas
+    where the tropical essence of bananas harmonizes with open spaces and lively
+    surroundings. The Shibana thrives in environments such as sunny meadows, parks,
+    and beachfronts, where it can frolic and explore to its heart's content. It can
+    be seen bounding joyfully through its habitat, its banana-like features adding
+    a touch of whimsy to its lively presence.
+  monster_lifespan: The lifespan of the Shibana is comparable to that of a Shiba
+    Inu. On average, Shibana have a lifespan ranging from 12 to 15 years.

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_1215snakeFLAME
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: PYROSERPENT
+  monster_rarity: RARE
+  monster_id: 1215
+  monster_ability: 'The Pyroserpent wields a potent combination of fire manipulation
+    and serpentine prowess. It possesses the ability to generate intense heat through
+    its body, causing flames to flicker along its scales. It can unleash scorching
+    fire breath, engulfing its prey or adversaries in searing infernos. The Pyroserpent
+    is a master of stealth, capable of camouflaging itself within flames and shadows
+    with uncanny precision. It can constrict its foes with fiery coils, inflicting
+    both physical and burn damage. '
+  monster_location: 'The Pyroserpent is often found in arid and desolate landscapes,
+    where the scorching heat of the sun amplifies its fiery nature. It favors lava-filled
+    caverns, ancient ruins consumed by eternal flames, and desert oases surrounded
+    by searing sand dunes. The Pyroserpent seeks out places where the boundary between
+    the physical and elemental realms is blurred, leaving behind trails of scorched
+    earth and lingering embers. '
+  monster_lifespan: The lifespan of a Pyroserpent is relatively long, spanning several
+    decades. The intense fusion of snake and fire grants it an extended existence,
+    embodying the eternal nature of flames.

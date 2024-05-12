@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_213Banawolf
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 5
+  monster_name: BANEWOLF
+  monster_rarity: SUPER RARE
+  monster_id: 213
+  monster_ability: 'The Banewolf possesses a special ability that combines the agility
+    of a wolf with the surprising influence of bananas. It can summon a swarm of
+    magically enhanced bananas, which it can skillfully manipulate and project at
+    high speeds, using them as projectiles to incapacitate or distract its opponents.
+    The bananas possess a mesmerizing quality that can temporarily bewilder enemies,
+    causing them to slip and lose their footing. Additionally, the Banewolf''s howl
+    carries a melodious tone, capable of enchanting listeners and soothing their
+    spirits. '
+  monster_location: 'The Banewolf can be found in a variety of locations, often favoring
+    regions where nature and whimsy harmonize. It is commonly seen in lush forests,
+    verdant meadows, and tropical jungles where bananas thrive. The creature is drawn
+    to places where the vitality of nature intertwines with its playful nature, creating
+    an environment where its unique fusion can be fully appreciated. '
+  monster_lifespan: The lifespan of a Banewolf is similar to that of a regular wolf,
+    ranging from 6 to 8 years.

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_103catpenguin
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: KITTYGUIN
+  monster_rarity: RARE
+  monster_id: 103
+  monster_ability: 'The Kittyguin possesses an exceptional special ability: the power
+    of amphibious agility. It can effortlessly navigate both land and water, combining
+    the gracefulness of a penguin''s swimming prowess with the agility and dexterity
+    of a cat. This enables the Kittyguin to move swiftly and silently, whether it''s
+    diving beneath the waves or gracefully leaping across the land.'
+  monster_location: The Kittyguin primarily inhabits regions with a combination of
+    icy and coastal environments. It is commonly found in areas where cold climates
+    meet the sea, such as subarctic islands and coastlines. These locations provide
+    the ideal setting for the Kittyguin to thrive, as it can utilize its penguin-like
+    features to swim and fish in the icy waters, while its feline attributes aid
+    in navigating the rugged terrains and hunting on land.
+  monster_lifespan: The lifespan of the Kittyguin is relatively similar to that of
+    a domestic cat, ranging from 12 to 15 years. It undergoes a fascinating transformation
+    throughout its life stages, beginning as a small and fluffy creature resembling
+    a kitten with penguin-like coloring. As it matures, it develops a sleek and streamlined
+    body, blending the markings of a cat with the distinctive coloration of a penguin.

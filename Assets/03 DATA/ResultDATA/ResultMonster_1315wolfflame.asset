@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_1315wolfflame
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: FLAREWOLF
+  monster_rarity: EPIC
+  monster_id: 1315
+  monster_ability: 'The Flarewolf harnesses the power of fire in its purest form,
+    making it a master of both physical prowess and fiery devastation. It possesses
+    the ability to generate and manipulate flames at will, engulfing its surroundings
+    in scorching heat. The Flarewolf can summon firestorms, project searing fireballs,
+    and unleash fiery breath attacks. Its flaming claws and teeth can inflict both
+    physical and burn damage, making it a deadly adversary. '
+  monster_location: 'The Flarewolf is often found in rugged and volcanic landscapes,
+    drawn to areas where the elemental forces of fire are prevalent. It roams through
+    desolate volcanic plains, charred forests, and fiery mountain ranges. It has
+    an affinity for places where the boundary between the physical and elemental
+    realms is blurred, and its fiery presence leaves a trail of scorch marks and
+    smoldering embers. '
+  monster_lifespan: The lifespan of a Flarewolf is relatively long, spanning several
+    decades. Its fiery nature grants it a unique resilience and longevity.

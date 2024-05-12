@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_147CATDRALION
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 8
+  monster_name: DRACATION
+  monster_rarity: MYTHICAL
+  monster_id: 147
+  monster_ability: 'The Dracation possesses a remarkable special ability: fire-breathing
+    and strength. Drawing inspiration from its dragon lineage, the Dracation has
+    the ability to breathe fire and possesses incredible strength. Additionally,
+    it inherits the ferocity and courage of a lion, making it a creature of unrivaled
+    power and bravery. This unique combination of abilities makes the Dracation a
+    creature of both destructive power and commanding presence. '
+  monster_location: 'The Dracation can be found in regions that offer a combination
+    of diverse habitats and ample prey. It is often drawn to areas where the natural
+    habitats of lions intersect with the environments associated with dragons. The
+    Dracation thrives in environments such as savannas, grasslands, and mountains,
+    where it can utilize its fire-breathing and strength to hunt and protect its
+    territory. It can be seen prowling through the grasslands or soaring through
+    the skies, exhibiting a unique combination of lion-like ferocity and dragon-like
+    majesty. '
+  monster_lifespan: The lifespan of the Dracation is influenced by various factors,
+    including its genetic makeup and the environment it inhabits. While specific
+    durations can vary, Dracation possess a prolonged lifespan due to their dragon
+    and lion heritage. They can live for several decades, with some individuals potentially
+    enduring for more than a century.

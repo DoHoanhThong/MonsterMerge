@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_415DRAGONFLAME
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 5
+  monster_name: BLAZE DRAGON
+  monster_rarity: SUPER RARE
+  monster_id: 415
+  monster_ability: 'The Blaze Dragon wields immense power over fire, harnessing it
+    as a devastating weapon and a source of protection. It possesses the ability
+    to breathe scorching flames that can incinerate anything in their path. Its fire
+    breath is not only incredibly potent but also infused with magical properties,
+    capable of melting through even the most resilient defenses. The Blaze Dragon''s
+    scales are highly resistant to heat and fire, acting as a natural armor against
+    its adversaries. It can summon firestorms, create blazing shockwaves, and manipulate
+    fire to create illusions and traps. '
+  monster_location: 'The Blaze Dragon is typically found in volcanic regions, where
+    the earth''s molten core intertwines with the skies. It roams through treacherous
+    mountain ranges, lava-filled caverns, and fiery realms hidden deep within the
+    earth. The creature''s affinity for fire draws it to places where the elemental
+    forces are strong, leaving behind trails of smoldering landscapes and scorched
+    earth. '
+  monster_lifespan: The lifespan of a Blaze Dragon is long and enduring, spanning
+    several centuries. The powerful fusion of dragon and fire grants it an extended
+    existence, embodying the eternal nature of flames.

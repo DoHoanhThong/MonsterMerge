@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_813owlwolf
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: OWLFANG
+  monster_rarity: COMMON
+  monster_id: 813
+  monster_ability: 'The Owlfang possesses a unique blend of abilities derived from
+    both the wolf and owl realms. It combines the agility, stealth, and pack instincts
+    of a wolf with the wisdom, acute hearing, and silent flight of an owl. The creature
+    has the remarkable ability to navigate through the darkness with precision, thanks
+    to its enhanced night vision and keen hearing. It can glide silently through
+    the air, allowing it to surprise its prey or elude potential threats. Additionally,
+    the Owlfang possesses a heightened sense of intuition, making it an exceptional
+    tracker and strategist. '
+  monster_location: 'The Owlfang is adaptable to a variety of environments, but it
+    is often found in regions where the realms of the wolf and the owl intersect.
+    It can be encountered in dense forests, expansive woodlands, or secluded mountainous
+    areas. The creature is drawn to locations where it can blend seamlessly with
+    its surroundings and capitalize on its stealth and hunting abilities. It seeks
+    out tall trees, hidden groves, and rocky outcrops that provide vantage points
+    for observing its territory. '
+  monster_lifespan: The lifespan of an Owlfang is comparable to that of a regular
+    wolf, ranging from 6 to 10 years.

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_115CATFLAME
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: BLAZING FELINE
+  monster_rarity: RARE
+  monster_id: 115
+  monster_ability: The Blazing Feline possesses a unique affinity for fire and harnesses
+    its power as both a defensive mechanism and an offensive force. It can manipulate
+    flames, creating protective shields of fire that surround its body, granting
+    it increased resilience against attacks. The Blazing Feline can also emit searing
+    fireballs, launching them with pinpoint accuracy at its adversaries. It possesses
+    heightened agility and speed, allowing it to move with swift elegance through
+    the fiery landscapes it calls home.
+  monster_location: The Blazing Feline is often found in landscapes where fire and
+    heat dominate. It favors volcanic regions, arid deserts, and ancient ruins consumed
+    by eternal flames. These creatures are drawn to places where the elemental energy
+    of fire is strong, and their presence leaves behind scorch marks and trails of
+    smoldering embers. The Blazing Feline is known to seek shelter and solace within
+    hidden caverns adorned with fiery crystals.
+  monster_lifespan: The lifespan of a Blazing Feline is significantly longer than
+    that of an ordinary cat, spanning several decades. The mystical fusion of feline
+    grace and the eternal flame grants it a prolonged existence.

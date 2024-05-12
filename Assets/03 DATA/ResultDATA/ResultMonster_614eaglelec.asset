@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_614eaglelec
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: THUNDERAGLE
+  monster_rarity: COMMON
+  monster_id: 614
+  monster_ability: 'The Thunderagle possesses a unique and potent ability derived
+    from the fusion of eagle and electricity. It can generate, manipulate, and channel
+    electricity with remarkable precision. The creature''s wings crackle with electrical
+    energy, allowing it to create powerful gusts of wind infused with electricity.
+    It can discharge lightning bolts from its talons, striking down adversaries with
+    shocking precision. The Thunderagle''s heightened eyesight enables it to detect
+    and track electrical currents, granting it unparalleled accuracy in targeting
+    and navigation. Additionally, it can emit electrical charges from its beak, stunning
+    or repelling foes. '
+  monster_location: 'The Thunderagle can be found in regions where the realms of
+    eagles and electricity intersect. It is often drawn to areas with strong electrical
+    phenomena, such as open plains with frequent lightning storms, mountainous regions
+    with electrified air, or places with a significant presence of electrical infrastructure.
+    The creature seeks out locations where it can harness the power of electricity,
+    utilizing its abilities for hunting and territorial defense. It is also known
+    to build nests in high and secluded locations, reflecting its eagle essence. '
+  monster_lifespan: The lifespan of an Thunderagle is comparable to that of a regular
+    eagle, typically ranging from 20 to 30 years.

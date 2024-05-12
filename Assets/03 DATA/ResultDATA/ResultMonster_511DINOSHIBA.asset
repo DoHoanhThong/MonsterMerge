@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_511DINOSHIBA
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: SHIBASAUR
+  monster_rarity: COMMON
+  monster_id: 511
+  monster_ability: 'The Shibasaur possesses a remarkable special ability: enhanced
+    sense of smell and speed. Drawing inspiration from its Shiba Inu lineage, the
+    Shibasaur has a heightened sense of smell, capable of tracking prey and foes
+    from great distances. Additionally, it inherits the enhanced physical capabilities
+    of a dinosaur, boasting immense speed and agility. This unique combination of
+    abilities makes the Shibasaur a creature of both loyalty and quickness. '
+  monster_location: 'The Shibasaur can be found in regions that offer a combination
+    of diverse habitats and open spaces. It is often drawn to areas where the natural
+    habitats of Shiba Inus intersect with the ancient landscapes associated with
+    dinosaurs. The Shibasaur thrives in environments such as grasslands, forests,
+    and deserts, where it can utilize its speed and agility to hunt and defend its
+    territory. It can be seen running through the fields or playing with its human
+    companions, exhibiting a unique combination of Shiba Inu-like cuteness and dinosaur-like
+    dominance. '
+  monster_lifespan: ' While specific durations can vary, Shibasaur possess a prolonged
+    lifespan due to their Shiba Inu and dinosaur heritage. They can live for several
+    decades, with some individuals potentially enduring for a century or more.'

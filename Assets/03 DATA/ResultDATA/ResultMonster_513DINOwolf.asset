@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_513DINOwolf
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: TYRANNOWOLF
+  monster_rarity: EPIC
+  monster_id: 513
+  monster_ability: 'The Tyrannowolf possesses a unique blend of abilities derived
+    from both the wolf and T-rex realms. It combines the pack-oriented hunting tactics,
+    agility, and enhanced senses of a wolf with the raw power, bone-crushing bite,
+    and armored skin of a T-rex. The creature has an incredible sense of smell, allowing
+    it to track prey from vast distances. It has formidable jaws capable of delivering
+    devastating bites, capable of overpowering even the toughest adversaries. Additionally,
+    the Tyrannowolf has a heightened sense of territoriality, fiercely protecting
+    its pack and dominating its hunting grounds. '
+  monster_location: 'The Tyrannowolf is adaptable to a range of environments, but
+    it is often found in regions where the realms of the wolf and dinosaur intersect.
+    It can be encountered in dense forests, open grasslands, or rugged mountainous
+    areas. The creature is drawn to locations where it can make use of its hunting
+    abilities and establish its dominance. It seeks out areas with abundant prey,
+    ample water sources, and suitable shelter for its pack. '
+  monster_lifespan: The lifespan of a Tyrannowolf is comparable to that of a regular
+    wolf or T-rex, typically ranging from 20 to 30 years.

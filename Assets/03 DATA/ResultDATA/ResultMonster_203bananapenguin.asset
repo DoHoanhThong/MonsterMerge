@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_203bananapenguin
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: BANAGUIN
+  monster_rarity: EPIC
+  monster_id: 203
+  monster_ability: 'The Banaguin possesses a special ability that revolves around
+    its banana-like features: the power of transformation. It has the remarkable
+    capability to manipulate its body, changing its shape, size, and color at will.
+    This ability allows the Banaguin to camouflage itself in various environments,
+    seamlessly blending with its surroundings. It can mimic the appearance of a regular
+    banana, transforming into an inconspicuous object, or alter its appearance to
+    reflect its vibrant and tropical nature.'
+  monster_location: The Banaguin is often found in tropical and lush environments,
+    such as dense jungles, vibrant rainforests, and tropical islands. It is drawn
+    to locations abundant with vegetation, where it can find the perfect blend of
+    warmth, humidity, and sunlight. The Banaguen Monster thrives in areas with a
+    rich diversity of plant life, as it complements its banana-like features and
+    provides it with ample nourishment. It can be spotted playfully frolicking amidst
+    the foliage, utilizing its transformative abilities to both hide and surprise
+    unsuspecting onlookers.
+  monster_lifespan: The lifespan of the Banaguin is a unique blend of the lifespans
+    of a banana and a penguin. Banaguin has a lifespan that falls 7 years.

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_510PHOENIXDINO
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: PHOENOSAURUS
+  monster_rarity: EPIC
+  monster_id: 510
+  monster_ability: 'The Phoenosaurus possesses a remarkable special ability: fiery
+    rebirth and elemental control. Drawing inspiration from its phoenix lineage,
+    the Phoenosaurus can burst into flames and be reborn from its own ashes, making
+    it virtually indestructible. Additionally, it inherits the elemental control
+    of a dinosaur, capable of manipulating and harnessing the forces of nature such
+    as fire, wind, and lightning. This unique combination of abilities makes the
+    Phoenosaurus a creature of both immortality and immense power. '
+  monster_location: 'The Phoenosaurus can be found in regions that offer a combination
+    of diverse habitats and elemental energies. It is often drawn to areas where
+    the natural habitats of phoenixes intersect with the ancient landscapes associated
+    with dinosaurs. The Phoenosaurus thrives in environments such as volcanoes, deserts,
+    and stormy skies, where it can utilize its elemental control and fiery rebirth.
+    It can be seen soaring through the skies or standing atop a volcano, exhibiting
+    a unique combination of phoenix-like grace and dinosaur-like dominance. '
+  monster_lifespan: While specific durations can vary, Phoenosaurus possess a prolonged
+    lifespan due to their phoenix and dinosaur heritage. They can live for several
+    centuries, with some individuals potentially enduring for millennia.

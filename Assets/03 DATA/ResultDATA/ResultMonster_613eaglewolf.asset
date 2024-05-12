@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_613eaglewolf
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 8
+  monster_name: WOLGEAGLE
+  monster_rarity: MYTHICAL
+  monster_id: 613
+  monster_ability: 'The Wolgeagle possesses a unique blend of abilities derived from
+    both the wolf and eagle realms. It combines the strength, agility, and pack instincts
+    of a wolf with the exceptional vision, aerial prowess, and extraordinary diving
+    speed of an eagle. The creature can spot prey from great distances, thanks to
+    its sharp eyesight. It possesses the ability to traverse vast distances swiftly,
+    gliding through the skies with grace and precision. Additionally, the Wolgeagle
+    can unleash devastating swooping attacks, using its powerful claws and beak to
+    strike with pinpoint accuracy. '
+  monster_location: 'The Wolgeagle is adaptable to a range of environments, but it
+    is often found in regions where the realms of the wolf and the eagle intersect.
+    It can be encountered in expansive mountain ranges, dense forests, and open grasslands.
+    The creature is drawn to locations where it can make use of its aerial advantage
+    and hunting prowess. It seeks out high cliffs, rocky outcrops, and tall trees,
+    which provide vantage points for observing its surroundings and launching swift
+    attacks. '
+  monster_lifespan: The lifespan of a Wolgeagle is similar to that of a wolf, ranging
+    from 6 to 10 years.

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_104CATDRAGON
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: CATRAGON
+  monster_rarity: EPIC
+  monster_id: 104
+  monster_ability: 'Catragon Monster possesses a formidable special ability: the
+    power of elemental breath. It can produce and manipulate breath infused with
+    the elements of fire, ice, or lightning. This ability allows Catragon to unleash
+    powerful and devastating attacks, engulfing its adversaries in flames, freezing
+    them in icy tendrils, or electrifying them with bolts of lightning. The choice
+    of elemental breath depends on the individual Catragon, with some displaying
+    mastery over a single element, while others may control multiple elements.'
+  monster_location: The Catragon is commonly found in regions of great natural energy
+    and mythical significance. It is often seen in remote and inaccessible areas,
+    such as hidden mountain ranges, ancient forests, or mystical realms. These locations
+    provide the Catragon with the solitude and tranquility it desires, where it can
+    bask in the sun atop lofty peaks or explore secret caves shrouded in mystic energies.
+  monster_lifespan: The lifespan of the Catragon is remarkably long, spanning several
+    centuries. It undergoes a gradual maturation process, starting as a small and
+    playful creature with distinct feline characteristics. As it grows older, it
+    gains in size and power, developing wings and scales reminiscent of a dragon.
+    With each passing century, the Catragon becomes increasingly wise, embodying
+    the wisdom of both the dragon and the cat.

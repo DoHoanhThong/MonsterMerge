@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_315PENGUFLAME
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 7
+  monster_name: INFENOPENGUIN
+  monster_rarity: LEGENDARY
+  monster_id: 315
+  monster_ability: 'The Infenopenguin possesses a unique ability to manipulate and
+    control fire, despite its diminutive size. It can create small orbs of dancing
+    flames that light up its surroundings, providing warmth and illumination even
+    in the coldest of environments. The Infenopenguin''s body generates a gentle
+    heat that can melt ice, allowing it to navigate icy terrains with ease. It can
+    emit tiny bursts of fire from its beak, acting as a defensive mechanism against
+    predators. Furthermore, the Pyropenguin can camouflage itself within flames,
+    blending seamlessly with its fiery environment for protection. '
+  monster_location: 'The Infenopenguin is often found in frigid regions where the
+    icy landscape contrasts with its fiery nature. It seeks out remote ice-covered
+    islands, frozen tundras, and polar regions where the clash of fire and ice is
+    most pronounced. These locations become illuminated with the Pyropenguin''s gentle
+    glow, casting a warm and inviting ambiance amidst the frosty surroundings. The
+    creature often gathers near natural hot springs or geothermal vents, drawn to
+    the comforting warmth they provide. '
+  monster_lifespan: The lifespan of a Infenopenguin is relatively moderate, extending
+    for several years.

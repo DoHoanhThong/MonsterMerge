@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_714lionelec
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: ELECTROLION
+  monster_rarity: EPIC
+  monster_id: 714
+  monster_ability: 'The Electrolion possesses a unique and potent ability derived
+    from the fusion of lion and electricity. It can generate, conduct, and discharge
+    electricity with remarkable prowess. The creature''s mane crackles with electrical
+    energy, allowing it to create a dazzling display of sparks and lightning. It
+    can channel electricity through its claws, enhancing its already formidable strength
+    and delivering electrifying strikes to adversaries. The Electrolion''s roar becomes
+    infused with electrical energy, capable of stunning and disorienting enemies.
+    Additionally, it can emit electric pulses from its body, creating a protective
+    field that repels or incapacitates threats. '
+  monster_location: 'The Electrolion can be found in regions where the realms of
+    lions and electricity intersect. It is often drawn to areas with a mix of open
+    savannahs, such as grasslands with frequent thunderstorms or places with a significant
+    presence of electrical activity. The creature seeks out locations where it can
+    harness and channel the power of electricity, utilizing its abilities for hunting,
+    territorial defense, and asserting dominance. It is known to establish its pride
+    in secluded areas with ample prey and access to water, reflecting its lion essence. '
+  monster_lifespan: The lifespan of an Electrolion is comparable to that of a regular
+    lion, typically ranging from 10 to 15 years in the wild.

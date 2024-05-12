@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_509PEADINO
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 7
+  monster_name: PEACODINO
+  monster_rarity: LEGENDARY
+  monster_id: 509
+  monster_ability: 'The Peacodino Monster possesses a remarkable special ability:
+    hypnotic display and armored protection. Drawing inspiration from its peacock
+    lineage, the Peacodino Monster can unleash a mesmerizing display of feathers
+    and color that can hypnotize its prey and foes. Additionally, it inherits the
+    armored protection of a dinosaur, boasting protective scales and bony structures
+    that can withstand even the most vicious attacks. This unique combination of
+    abilities makes the Peacodino Monster a creature of both beauty and power. '
+  monster_location: 'The Peacodino Monster can be found in regions that offer a combination
+    of diverse habitats and expansive territories. It is often drawn to areas where
+    the natural habitats of peacocks intersect with the ancient landscapes associated
+    with dinosaurs. The Peacodino Monster thrives in environments such as open grasslands,
+    lush forests, and rocky outcrops, where it can utilize its display and protection
+    to both attract mates and defend its territory. It can be seen strutting through
+    the grasses or basking in the sun, exhibiting a unique combination of peacock-like
+    elegance and dinosaur-like dominance. '
+  monster_lifespan: While specific durations can vary, Peacodino Monsters possess
+    a prolonged lifespan due to their peacock and dinosaur heritage. They can live
+    for several decades, with some individuals potentially enduring for a century
+    or more.

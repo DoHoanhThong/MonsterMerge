@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_811OWLSHIBA
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: OWLBA
+  monster_rarity: COMMON
+  monster_id: 811
+  monster_ability: 'The Owlba possesses a remarkable special ability: enhanced senses
+    and loyalty. Drawing inspiration from its owl lineage, the Owlba has the ability
+    to see in near-total darkness and hunt with precision. Additionally, it inherits
+    the loyalty and cuteness of a Shiba Inu, making it a creature of great affection
+    and devotion. This unique combination of abilities makes the Owlba a creature
+    of both wisdom and charm. '
+  monster_location: 'The Owlba can be found in regions that offer a combination of
+    diverse habitats and ample prey. It is often drawn to areas where the natural
+    habitats of owls intersect with the domesticated environments associated with
+    Shiba Inus. The Owlba thrives in environments such as parks, gardens, and neighborhoods,
+    where it can utilize its enhanced senses and loyalty to protect its territory
+    and companions. It can be seen perched on a tree or playfully chasing a ball,
+    exhibiting a unique combination of owl-like wisdom and Shiba Inu-like cuteness. '
+  monster_lifespan: The lifespan of the Owlba is influenced by various factors, including
+    its genetic makeup and the environment it inhabits. While specific durations
+    can vary, Owlba possess a prolonged lifespan due to their owl and Shiba Inu heritage.
+    They can live for several decades, with some individuals potentially enduring
+    for more than a century.

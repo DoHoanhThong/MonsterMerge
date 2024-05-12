@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_207LIONBANANA
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 5
+  monster_name: BANALION
+  monster_rarity: SUPER RARE
+  monster_id: 207
+  monster_ability: 'The Banalion Monster possesses a unique and potent special ability:
+    the power of camouflage. It has the remarkable capability to change the color
+    and pattern of its fur-like exterior, allowing it to blend seamlessly with its
+    surroundings. This ability enables the Banalion Monster to become nearly invisible,
+    making it a skilled hunter and a master of stealth. Whether in dense jungles,
+    savannahs, or even urban environments, the Banalion Monster can effortlessly
+    conceal itself, waiting patiently for the perfect moment to strike.'
+  monster_location: The Banalion Monster is often found in diverse habitats that
+    encompass both lush tropical regions and open grasslands. It is drawn to areas
+    where the tropical essence of bananas merges with the vast landscapes associated
+    with lions. The Banalion Monster thrives in environments such as rainforests,
+    savannahs, and tropical grasslands, where it can utilize its camouflage ability
+    to its full potential. It can be seen prowling through the dense foliage or majestically
+    roaming the grassy plains, its banana-like features blending harmoniously with
+    the natural beauty of its surroundings.
+  monster_lifespan: The lifespan of the Banalion Monster reflects its feline lineage.
+    On average, Banalion Monsters have a lifespan similar to that of lions, which
+    ranges from 10 to 15 years in the wild.

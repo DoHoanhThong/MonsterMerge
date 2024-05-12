@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_310PHOENIXPENGUIN
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: PHOENUGIN
+  monster_rarity: COMMON
+  monster_id: 310
+  monster_ability: 'The Phoenugin possesses a remarkable special ability: the power
+    of rebirth and fiery transformation. Drawing inspiration from its phoenix lineage,
+    the Phoenugin has the ability to undergo a rebirth from its own ashes. This process
+    grants it an eternal nature, as it can rise again even after being consumed by
+    flames. Additionally, the Phoenugin can summon and manipulate fire, exhibiting
+    control over flames with a combination of penguin-like precision and phoenix-like
+    intensity. Its fiery presence is both mesmerizing and formidable, symbolizing
+    the cycle of life, death, and renewal. '
+  monster_location: 'The Phoenugin is often found in regions that offer a combination
+    of icy environments and volcanic landscapes. It is particularly drawn to areas
+    where the habitats of penguins intersect with the fiery realms associated with
+    phoenixes. The Phoenugin thrives in environments such as icy shores, volcanic
+    islands, and subarctic regions, where it can utilize both its swimming and fire-manipulating
+    abilities. It can be seen gracefully swimming through frigid waters or soaring
+    through the skies with a distinct combination of penguin-like agility and phoenix-like
+    power. '
+  monster_lifespan: The lifespan of the Phoenugin is influenced by various factors,
+    including its genetic makeup and the environment it inhabits. While specific
+    durations can vary, Phoenugin possess an extraordinary lifespan due to their
+    phoenix heritage. They can live for several centuries, with some individuals
+    potentially existing for thousands of years.

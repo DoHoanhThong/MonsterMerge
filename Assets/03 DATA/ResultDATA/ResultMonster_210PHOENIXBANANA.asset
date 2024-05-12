@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_210PHOENIXBANANA
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 5
+  monster_name: PHOENANANA
+  monster_rarity: SUPER RARE
+  monster_id: 210
+  monster_ability: 'The Phoenanana possesses a truly extraordinary special ability:
+    the power of rebirth and regeneration. Drawing inspiration from the phoenix,
+    the Phoenanana has the ability to engulf itself in flames, only to rise from
+    the ashes in a magnificent display of rebirth. However, unlike the traditional
+    phoenix, the flames that envelope the Phoenanana have a tropical essence, reminiscent
+    of the vibrant allure of bananas. This ability grants the Phoenanana the power
+    of regeneration, allowing it to heal and rejuvenate itself from any injuries
+    or ailments. It is a symbol of resilience and renewal, embodying the eternal
+    cycle of life.'
+  monster_location: The Phoenanana is often found in regions where the tropical essence
+    of bananas coincides with the presence of mythical energy and fiery landscapes.
+    It is attracted to areas that combine lush vegetation with volcanic activity
+    or volcanic-like environments. The Phoenanana can be found in volcanic regions,
+    tropical islands, and areas with geothermal activity. It thrives amidst the vibrant
+    greenery and fiery landscapes, its banana-like features subtly glowing with an
+    inner warmth.
+  monster_lifespan: The lifespan of the Phoenanana is known to be extraordinary,
+    reflecting the mythical and immortal nature of the phoenix. While precise durations
+    are uncertain, Phoenanana are said to have lifespans that extend far beyond the
+    limits of ordinary creatures. They are believed to live for centuries

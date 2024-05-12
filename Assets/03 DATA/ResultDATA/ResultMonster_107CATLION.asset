@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_107CATLION
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: LIOAT
+  monster_rarity: RARE
+  monster_id: 107
+  monster_ability: 'The Lioat possesses a remarkable special ability: enhanced strength
+    and agility. It combines the raw power and majestic presence of a lion with the
+    grace and agility of a domestic cat. This unique blend of attributes makes the
+    Lioat a formidable and agile predator. It can pounce with incredible speed and
+    precision, overpowering its prey with a combination of strength and finesse.'
+  monster_location: The Lioat is commonly found in a variety of habitats, ranging
+    from grasslands and savannas to dense forests and even urban environments. It
+    adapts well to different surroundings, displaying its hunting prowess in both
+    natural landscapes and human settlements. The Lioat is particularly drawn to
+    regions with abundant prey and suitable shelter, allowing it to establish its
+    territory and thrive.
+  monster_lifespan: The lifespan of the Lioat is comparable to that of a lion, ranging
+    from 10 to 15 years. It undergoes a growth process similar to that of a domestic
+    cat, starting as a small and playful creature with distinct feline features.
+    As it matures, it develops a muscular build, a magnificent mane (in the case
+    of male Lioat), and a regal presence reminiscent of a lion. The Lioat reaches
+    its prime in adulthood, displaying its full strength and agility.

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_814OWLELEC
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: ELECTROWL
+  monster_rarity: RARE
+  monster_id: 814
+  monster_ability: 'The Electrowl possesses a unique and potent ability derived from
+    the fusion of owl and electricity. It can harness and manipulate electrical energy
+    with remarkable finesse. The creature''s feathers crackle with electricity, granting
+    it enhanced stealth and the ability to emit dazzling displays of light. It can
+    generate and control electrical discharges, using them as defensive shields or
+    as offensive projectiles. The Electrowl''s acute senses are further heightened
+    by its electrical essence, allowing it to detect and analyze minute electrical
+    signals in its surroundings. Additionally, it can emit electrical pulses that
+    disorient or stun its prey or adversaries. '
+  monster_location: 'The Electrowl can be found in regions where the realms of owls
+    and electricity intersect. It is often drawn to areas with a mix of dense vegetation,
+    such as forests with a high concentration of electrical storms, or places with
+    an abundance of electrical infrastructure. The creature seeks out locations where
+    it can blend into the darkness and utilize its electrifying abilities for hunting
+    and survival. It is known to establish nests in secluded and elevated areas,
+    reflecting its owl essence. '
+  monster_lifespan: The lifespan of an Electrowl is comparable to that of a regular
+    owl, typically ranging from 10 to 20 years depending on the species.

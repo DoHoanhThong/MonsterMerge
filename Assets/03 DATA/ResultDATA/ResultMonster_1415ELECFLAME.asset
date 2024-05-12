@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_1415ELECFLAME
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 8
+  monster_name: 'ELECTROFIRE '
+  monster_rarity: MYTHICAL
+  monster_id: 1415
+  monster_ability: The Electrofire possesses the ability to channel and manipulate
+    both electric and fire energies simultaneously. It can summon bolts of lightning
+    that are tinged with scorching flames, creating electrified infernos that engulf
+    its surroundings. The electrofire can generate intense heat and flames infused
+    with electric discharges, causing devastating damage to anything it touches.
+    It can also create electrified barriers that repel attacks and shock adversaries.
+  monster_location: The Electrofire is often found in locations where the elements
+    of electricity and fire converge. It is drawn to places such as stormy volcanic
+    regions, where lightning strikes meet erupting magma. It can also be found in
+    ancient temples or sacred sites where the forces of fire and electricity intertwine.
+    These locations become charged with a crackling energy and emit an otherworldly
+    glow, marking the presence of the Electrofire
+  monster_lifespan: The lifespan of an Electrofire is enigmatic and transcends conventional
+    understanding.

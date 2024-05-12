@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_812OWLSNAKE
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: SNOWL
+  monster_rarity: COMMON
+  monster_id: 812
+  monster_ability: 'The Snowl possesses a remarkable special ability: stealth and
+    venom. Drawing inspiration from its snake lineage, the Snowl has the ability
+    to move with incredible stealth and strike with venomous fangs. Additionally,
+    it inherits the wisdom and nocturnal prowess of an owl, making it a creature
+    of great insight and hunting ability. This unique combination of abilities makes
+    the Snowl a creature of both deadly stealth and wise skill. '
+  monster_location: 'The Snowl can be found in regions that offer a combination of
+    diverse habitats and ample prey. It is often drawn to areas where the natural
+    habitats of owls intersect with the grassy environments associated with snakes.
+    The Snowl thrives in environments such as deserts, grasslands, and forests, where
+    it can utilize its stealth and venom to hunt and protect its territory. It can
+    be seen slithering silently through the grass or soaring silently through the
+    night, exhibiting a unique combination of owl-like wisdom and snake-like stealth. '
+  monster_lifespan: The lifespan of the Snowl is influenced by various factors, including
+    its genetic makeup and the environment it inhabits. While specific durations
+    can vary, Snowl possess a prolonged lifespan due to their owl and snake heritage.
+    They can live for several decades, with some individuals potentially enduring
+    for more than a century.

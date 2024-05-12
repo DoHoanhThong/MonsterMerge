@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_407LIONDRAGON
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 8
+  monster_name: KANGLASHA
+  monster_rarity: MYTHICAL
+  monster_id: 407
+  monster_ability: 'The Kanglasha Monster possesses a remarkable special ability:
+    the power of fire manipulation and extraordinary physical prowess. Drawing inspiration
+    from its dragon lineage, the Kanglasha Monster can breathe scorching flames,
+    engulfing its adversaries in a fiery inferno. Additionally, it inherits the unmatched
+    strength and agility of a lion, making it a formidable force in physical combat.
+    The Kanglasha Monster''s combination of fire manipulation and extraordinary physical
+    prowess makes it a fearsome creature, capable of unleashing devastating attacks
+    and overpowering its opponents. '
+  monster_location: 'The Kanglasha Monster can be found in various locations that
+    offer a combination of diverse habitats and untamed wilderness. It is often drawn
+    to regions where the domains of lions and dragons intersect. The Kanglasha Monster
+    thrives in environments such as savannahs, dense forests, and volcanic landscapes,
+    where it can utilize its strength and adaptability. Whether prowling through
+    the grasslands or perching upon rocky outcrops, the Kanglasha Monster exhibits
+    a unique blend of lion-like majesty and dragon-like dominance. '
+  monster_lifespan: The lifespan of the Kanglasha Monster is influenced by various
+    factors, including its genetic makeup and the environment it inhabits. While
+    specific durations can vary, Kanglasha Monsters possess a significantly extended
+    lifespan due to their lion and dragon heritage. They can live for several centuries,
+    with some individuals potentially enduring for thousands of years.

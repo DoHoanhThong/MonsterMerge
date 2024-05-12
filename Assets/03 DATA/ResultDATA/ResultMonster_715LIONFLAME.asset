@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_715LIONFLAME
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 5
+  monster_name: BLAZELION
+  monster_rarity: SUPER RARE
+  monster_id: 715
+  monster_ability: 'The Blazelion possesses the unique ability to manipulate and
+    harness the element of fire with immense power. It can conjure searing flames
+    that envelop its massive paws, turning them into infernal weapons capable of
+    rending and scorching adversaries. The Pyrolion''s roar is imbued with the intensity
+    of a raging inferno, capable of disorienting and intimidating even the bravest
+    of foes. It can create cascades of fiery embers, launching them at enemies with
+    lethal accuracy. Additionally, its burning mane acts as a shield, protecting
+    it from harm and radiating waves of heat that repel attackers. '
+  monster_location: 'The Blazelion is often found in arid and fiery landscapes, favoring
+    deserts, savannas, and volcanic regions. It seeks out places where the scorching
+    sun and the unrelenting heat are in harmony with its fiery nature. The creature
+    establishes its territory in vast expanses of open land, ruling over its domain
+    with a fiery pride. The Blazelion''s presence is marked by the crackling of flames
+    and the distant rumble of volcanic activity. '
+  monster_lifespan: The lifespan of a Blazelion is relatively long, spanning several
+    decades. The fusion of lion and fire grants it an extended existence, embodying
+    the indomitable spirit of both. As it ages, the flames that engulf its mane grow
+    ever brighter and m

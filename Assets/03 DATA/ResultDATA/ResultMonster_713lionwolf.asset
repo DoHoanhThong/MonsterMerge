@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_713lionwolf
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 5
+  monster_name: LIONWOLF
+  monster_rarity: SUPER RARE
+  monster_id: 713
+  monster_ability: 'The Lionwolf possesses a unique blend of abilities derived from
+    both the wolf and lion realms. It combines the pack-oriented nature, agility,
+    and night vision of a wolf with the raw power, ferocity, and regal roar of a
+    lion. The creature possesses incredible strength, capable of taking down formidable
+    prey and defending its territory against rival predators. It has a commanding
+    roar that echoes through the wilderness, instilling fear and asserting dominance.
+    Additionally, the Lionwolf has a heightened sense of leadership, inspiring loyalty
+    and unity among its pack. '
+  monster_location: 'The Lionwolf can be found in a variety of habitats, often favoring
+    regions where the realms of the wolf and lion intersect. It can be encountered
+    in grasslands, savannahs, or dense forests. The creature is drawn to locations
+    where it can make use of its hunting abilities and establish its dominance over
+    its territory. It seeks out areas with ample prey, reliable water sources, and
+    suitable denning sites for its pack. '
+  monster_lifespan: The lifespan of a Lionwolf is similar to that of a regular wolf
+    or lion, typically ranging from 10 to 15 years.

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_915peaflame
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 7
+  monster_name: FLAMETAIL
+  monster_rarity: LEGENDARY
+  monster_id: 915
+  monster_ability: 'The Flametail possesses a unique blend of abilities derived from
+    both the peacock and fire realms. It combines the captivating display, agility,
+    and keen eyesight of a peacock with the ability to generate, control, and manipulate
+    fire. The creature can conjure flames from its tail feathers and project them
+    with precision, unleashing scorching attacks upon its foes. It can create dazzling
+    displays of fiery patterns and illusions, captivating its audience and mesmerizing
+    prey. Additionally, the Flametail has a regenerative ability, allowing it to
+    heal its own wounds with the rejuvenating power of fire. '
+  monster_location: 'The Flametail can be found in areas where the realms of peacocks
+    and fire converge. It seeks out habitats such as dense forests, volcanic regions,
+    or areas with strong elemental energy. The creature is drawn to places where
+    it can showcase its flamboyant displays and make use of its fire-based abilities.
+    It seeks out locations with ample sunlight, combustible materials, and a balance
+    between the earthly and fiery elements. '
+  monster_lifespan: The lifespan of a Flametail is comparable to that of a regular
+    peacock, typically ranging from 15 to 20 years.

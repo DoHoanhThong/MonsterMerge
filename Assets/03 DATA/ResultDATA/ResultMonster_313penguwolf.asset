@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_313penguwolf
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 5
+  monster_name: PENGWOLF
+  monster_rarity: SUPER RARE
+  monster_id: 313
+  monster_ability: 'The Pengwolf possesses a unique blend of abilities derived from
+    both the wolf and penguin realms. It combines the pack-oriented hunting tactics,
+    agility, and acute senses of a wolf with the adaptability, diving expertise,
+    and swimming prowess of a penguin. The creature is an exceptional swimmer, capable
+    of diving deep into the water and maneuvering with precision. It has a streamlined
+    body that aids in swift underwater movement, allowing it to catch prey with ease.
+    Additionally, the Pengwolf has a remarkable sense of camaraderie, fostering strong
+    social bonds within its pack and displaying cooperative behavior. '
+  monster_location: 'The Pengwolf can be found in regions where the realms of the
+    wolf and penguin intersect. It can be encountered in coastal areas, islands,
+    or regions with ample water sources. The creature is drawn to locations where
+    it can make use of its swimming abilities and access a variety of prey. It seeks
+    out rocky shores, ice floes, or secluded beaches where it can nest and raise
+    its young. '
+  monster_lifespan: The lifespan of a Pengwolf is comparable to that of a regular
+    wolf or penguin, typically ranging from 15 to 20 years.

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_206BANANAEAGLE
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: BANAGLE
+  monster_rarity: RARE
+  monster_id: 206
+  monster_ability: 'The Banagle Monster possesses a remarkable special ability: the
+    power of enhanced senses. It possesses the acute vision and exceptional hearing
+    of an eagle, allowing it to perceive the world with unparalleled clarity and
+    precision. The Banagle Monster can spot minute details from great distances,
+    making it an exceptional hunter and observer. Its keen senses enable it to detect
+    even the faintest sounds and movements, making it an elusive and formidable predator.'
+  monster_location: The Banagle Monster is often found in diverse habitats that encompass
+    both lush vegetation and open skies. It is particularly drawn to regions where
+    the tropical allure of bananas coexists with expansive landscapes, such as rainforests,
+    mountainous areas, and coastal regions. The Banagle Monster utilizes its ability
+    to soar high above the ground, surveying the land and sky for prey and potential
+    threats. It can be spotted gracefully gliding through the air, its banana-like
+    features harmonizing with the natural beauty of its surroundings.
+  monster_lifespan: The lifespan of the Banagle Monster is influenced by a combination
+    of factors, including its genetic makeup and the environment it inhabits. While
+    specific durations can vary, Banagle Monsters generally have a lifespan comparable
+    to that of eagles. This can range from 20 to 30 years, with some individuals
+    potentially surpassing these estimates.

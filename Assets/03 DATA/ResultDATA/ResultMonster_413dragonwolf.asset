@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_413dragonwolf
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: DRACONIC WOLF
+  monster_rarity: EPIC
+  monster_id: 413
+  monster_ability: 'The Draconic Wolf possesses a formidable array of special abilities,
+    drawing from both the wolf and dragon realms. It combines the speed and agility
+    of a wolf with the elemental powers of a dragon. The creature can breathe scorching
+    flames, unleashing fiery torrents upon its enemies. Its jaws possess a crushing
+    strength, capable of rending through the toughest of defenses. Additionally,
+    the Draconic Wolf can mesmerize foes with its piercing gaze, captivating them
+    and momentarily immobilizing them in a state of awe and fear. It also possesses
+    the ability to sense and harness elemental energies, enabling it to manipulate
+    and control fire, wind, and earth. '
+  monster_location: 'The Draconic Wolf is a creature that roams across diverse landscapes,
+    seeking places where its power can be fully expressed. It can be found in rugged
+    mountain ranges, ancient forests, and secluded valleys. It often seeks out regions
+    with hidden caves or lava-filled caverns, aligning itself with the elemental
+    forces of fire and earth. The Draconic Wolf gravitates toward locations where
+    its presence can inspire a sense of awe and reverence. '
+  monster_lifespan: The lifespan of a Draconic Wolf is extended compared to its non-fused
+    counterparts. It can live for several decades, owing to the infusion of dragon
+    essence that grants it a heightened longevity.

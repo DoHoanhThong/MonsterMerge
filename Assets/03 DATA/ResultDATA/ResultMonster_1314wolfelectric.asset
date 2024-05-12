@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_1314wolfelectric
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: ELECWOLF
+  monster_rarity: RARE
+  monster_id: 1314
+  monster_ability: 'The Elecwolf possesses a unique blend of abilities derived from
+    both the wolf and electrical realms. It combines the agility, speed, and pack-oriented
+    nature of a wolf with the ability to generate and manipulate electricity. The
+    creature can discharge powerful bolts of lightning from its body, capable of
+    stunning or incapacitating its enemies. It has an enhanced electrical sense,
+    allowing it to detect and navigate through electrical fields or disturbances.
+    Additionally, the Elecwolf can cloak itself in an electric field, providing protection
+    against physical attacks and serving as a deterrent to potential threats. '
+  monster_location: 'The Elecwolf is often found in regions where the realms of the
+    wolf and electricity intersect. It can be encountered in areas with high electrical
+    activity, such as thunderstorm-prone landscapes, power stations, or places with
+    strong electromagnetic fields. The creature is drawn to locations where it can
+    harness and channel the power of electricity effectively. It seeks out caves,
+    rock formations, or underground tunnels where it can find shelter and amplify
+    its electric abilities. '
+  monster_lifespan: The lifespan of an Elecwolf is similar to that of a regular wolf,
+    ranging from 6 to 10 years.

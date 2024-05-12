@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_108CATOWL
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: COWL
+  monster_rarity: RARE
+  monster_id: 108
+  monster_ability: 'The Cowl possesses a remarkable special ability: heightened nocturnal
+    senses. It combines the keen vision and stealth of an owl with the agility and
+    grace of a cat. This unique combination allows the Cowl to navigate and hunt
+    with exceptional precision in low-light conditions. Additionally, it possesses
+    the agility of a cat, allowing it to move silently and swiftly, making it an
+    incredibly effective nocturnal predator. '
+  monster_location: The Cowl is commonly found in forested regions, particularly
+    those with dense canopies and ample prey populations. It favors environments
+    where it can take advantage of its natural camouflage and blend seamlessly with
+    the surrounding foliage. These areas provide the Cowl with the ideal habitat
+    to exhibit its hunting skills, as it can silently stalk its prey from the treetops
+    and pounce with extraordinary accuracy.
+  monster_lifespan: The lifespan of the Cowl is relatively similar to that of a domestic
+    cat, ranging from 12 to 15 years. It undergoes a growth process reminiscent of
+    a cat, starting as a small and curious creature with distinct feline features.

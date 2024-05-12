@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_209PEACOOKBANANA
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: PENACOOK
+  monster_rarity: COMMON
+  monster_id: 209
+  monster_ability: 'The Penacook possesses a remarkable special ability: the power
+    of mesmerization. It has inherited the mesmerizing display of colorful plumage
+    from the peacock, but with a tropical twist. The Penacook feathers showcase a
+    breathtaking array of vibrant hues, reminiscent of the tropical allure of bananas.
+    When it spreads its magnificent tail feathers, it emits an enchanting aura that
+    can captivate and mesmerize those who gaze upon it. This ability allows the Banacock
+    Monster to both awe and hypnotize, making it a master of allure and charm. '
+  monster_location: The Penacook is often found in regions that offer a blend of
+    tropical beauty and open spaces. It is drawn to areas where the vibrant essence
+    of bananas meets open meadows, forests, and gardens. The Penacook thrives in
+    environments such as tropical rainforests, botanical gardens, and lush parks,
+    where it can display its vibrant plumage and bask in the admiration of onlookers.
+    It can be seen gracefully strutting through its territory, its banana-like features
+    perfectly accentuating its radiant display.
+  monster_lifespan: The lifespan of the Penacook reflects its avian lineage. On average,
+    Penacook have a lifespan comparable to that of peafowls, which ranges from 10
+    to 15 years in the wild

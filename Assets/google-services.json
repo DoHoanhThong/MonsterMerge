@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374412824138",
+    "project_id": "monster-merge-world",
+    "storage_bucket": "monster-merge-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374412824138:android:107c1134be1318f8dfe0b3",
+        "android_client_info": {
+          "package_name": "com.monster.merge.world.diy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374412824138-9p85mrcfd6u3anf18ihjcins3qj9p0at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFHTQMQv__4fJc_2JOd2SZoFlcpr3-oS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374412824138-9p85mrcfd6u3anf18ihjcins3qj9p0at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

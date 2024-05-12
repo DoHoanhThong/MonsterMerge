@@ -1,0 +1,37 @@
+{
+    "monsters": [
+        {
+            "monster_im": {
+                "instanceID": 47580
+            },
+            "monster_width": 900.0,
+            "monster_height": 900.0,
+            "monster_star": 4,
+            "monster_name": "RARE",
+            "monster_rarity": "COMMON",
+            "monster_id": 12
+        },
+        {
+            "monster_im": {
+                "instanceID": 47386
+            },
+            "monster_width": 900.0,
+            "monster_height": 900.0,
+            "monster_star": 5,
+            "monster_name": "PEACOPHOENIX",
+            "monster_rarity": "SUPER RARE",
+            "monster_id": 100
+        },
+        {
+            "monster_im": {
+                "instanceID": 47546
+            },
+            "monster_width": 900.0,
+            "monster_height": 900.0,
+            "monster_star": 6,
+            "monster_name": "DINOLION",
+            "monster_rarity": "EPIC",
+            "monster_id": 57
+        }
+    ]
+}

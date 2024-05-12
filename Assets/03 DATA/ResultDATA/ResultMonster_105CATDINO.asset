@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_105CATDINO
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 5
+  monster_name: CATASAUR
+  monster_rarity: SUPER RARE
+  monster_id: 105
+  monster_ability: 'The Catasaur possesses a remarkable special ability: the power
+    of adaptive camouflage. It can seamlessly blend into its surroundings, altering
+    its skin patterns and colors to match its environment. This ability allows the
+    Catasaur to become nearly invisible, making it an elusive and stealthy predator.
+    Whether stalking through dense jungles or prowling through urban landscapes,
+    it can effortlessly conceal itself, enhancing its hunting prowess.'
+  monster_location: The Catasaur can be found in diverse habitats, ranging from dense
+    forests and tropical jungles to open grasslands and even urban areas. It adapts
+    to its environment, utilizing its dinosaur lineage to thrive in various landscapes.
+    It tends to seek out regions with ample prey populations, where it can utilize
+    its cat-like agility and dinosaur strength to hunt effectively.
+  monster_lifespan: The lifespan of the Catasaur is relatively long, spanning several
+    decades. It undergoes a fascinating growth process, starting as a small and agile
+    creature resembling a kitten with dinosaur features. As it matures, it grows
+    in size, developing powerful limbs, sharp claws, and a sleek and muscular body.
+    The Catasaur continues to evolve throughout its lifespan, becoming a formidable
+    apex predator capable of dominating its territory.

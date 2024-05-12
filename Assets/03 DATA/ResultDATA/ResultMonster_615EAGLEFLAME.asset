@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_615EAGLEFLAME
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: INFERNO EAGLE
+  monster_rarity: RARE
+  monster_id: 615
+  monster_ability: 'The Inferno Eagle possesses the ability to harness and manipulate
+    fire with astonishing control. It can summon swirling gusts of scorching wind
+    that ignite everything in their path, creating fiery tornadoes. The Inferno Eagle''s
+    talons are imbued with searing heat, allowing it to strike its adversaries with
+    devastating precision. It can create shields of flame to protect itself from
+    attacks and manifest flaming feathers that act as projectiles. With its keen
+    eyesight, it can detect even the faintest flicker of flame, making it an exceptional
+    hunter. '
+  monster_location: 'The Inferno Eagle is often found in regions where the element
+    of fire holds sway. It favors volcanic landscapes, fiery canyons, and mountainous
+    areas dotted with active lava flows. The creature is drawn to places where the
+    line between the physical and elemental realms is blurred, leaving behind trails
+    of scorched earth and smoldering remnants. The Inferno Eagle builds its nests
+    high in the peaks of fiery mountains, surrounded by billowing plumes of smoke. '
+  monster_lifespan: The lifespan of an Inferno Eagle is relatively long, spanning
+    several decades. The intense fusion of eagle and fire grants it an extended existence,
+    embodying the relentless nature of flames.

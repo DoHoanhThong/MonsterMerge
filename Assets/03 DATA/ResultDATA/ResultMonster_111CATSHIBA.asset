@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_111CATSHIBA
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: CATHIBA
+  monster_rarity: RARE
+  monster_id: 111
+  monster_ability: 'The Cathiba possesses a special ability that encompasses its
+    endearing and mischievous personality: the power of charm. It has an irresistible
+    aura that effortlessly captivates the hearts of those around it. Whether through
+    its adorable appearance, playful antics, or gentle demeanor, the Cathiba can
+    effortlessly win over the affections of both humans and other creatures. Its
+    charm often leads to forming deep bonds and connections with those it encounters.'
+  monster_location: The Cathiba can be found in a variety of locations, including
+    both urban and rural environments. It adapts well to different surroundings,
+    thriving in homes, gardens, parks, and even bustling city streets. The Shibacat
+    Monster is particularly drawn to areas where it can explore and play, as well
+    as receive attention and affection from its human companions. It has a knack
+    for finding cozy spots to relax and observe its surroundings, often perched in
+    windowsills or curling up on comfortable furniture.
+  monster_lifespan: 'The lifespan of the Cathiba is similar to that of a Shiba Inu,
+    ranging from 12 to 15 years. '

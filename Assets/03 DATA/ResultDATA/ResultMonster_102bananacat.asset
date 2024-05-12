@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_102bananacat
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: CATBANA
+  monster_rarity: RARE
+  monster_id: 102
+  monster_ability: 'Catbana Monster possesses an extraordinary special ability: the
+    power of shape-shifting. It has the uncanny ability to alter its form, seamlessly
+    transitioning between a banana-like appearance and that of a feline. This shape-shifting
+    ability allows the Banacat Monster to adapt to its surroundings and camouflage
+    itself effectively, making it an elusive and formidable creature.'
+  monster_location: Catbana is primarily found in lush, tropical environments. It
+    thrives in regions abundant with dense vegetation, such as rainforests and jungles,
+    where it can take advantage of both its banana and cat attributes. Due to its
+    inherent adaptability, it can also inhabit urban and suburban areas, blending
+    in seamlessly with its surroundings, much like a stray cat.
+  monster_lifespan: The lifespan of the Catbana is relatively long, extending up
+    to 25 years. This longevity is a result of the combination of the banana's inherent
+    hardiness and the cat's natural resilience. The creature undergoes a series of
+    transformations throughout its lifespan, much like a cat's life stages, from
+    playful kittenhood to mature adulthood.

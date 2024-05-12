@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_1014phoenixelec
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: ELECTRONIX
+  monster_rarity: RARE
+  monster_id: 1014
+  monster_ability: 'The Electronix possesses an extraordinary and potent ability
+    derived from the fusion of phoenix and electricity. It harnesses and manipulates
+    electricity with astonishing control. The creature''s feathers crackle with electrical
+    energy, allowing it to generate and project powerful lightning bolts. It can
+    soar through the skies with electrifying speed, leaving trails of electrified
+    air in its wake. The Electronix can also emit radiant bursts of electricity,
+    purifying and revitalizing its surroundings. Additionally, it has the ability
+    to absorb electrical energy from its environment, replenishing its own life force
+    and sustaining its fiery essence. '
+  monster_location: 'The Electronix can be found in regions where the realms of phoenixes
+    and electricity intersect. It is often drawn to places with intense electrical
+    activity, such as volcanic regions with lightning storms, atmospheric phenomena
+    rich in static electricity, or areas with a strong presence of electrical storms.
+    The creature seeks out locations where it can merge the power of electricity
+    with its own fiery nature, utilizing its abilities to inspire awe and wonder.
+    It is also known to make its nests in secluded areas with a strong connection
+    to both fire and electricity. '
+  monster_lifespan: The lifespan of an Electronix is extraordinary, spanning centuries
+    or even millennia. The fusion of phoenix and electricity essences grants it an
+    enduring existence, blending the eternal nature of a phoenix with the electrifying
+    power of electricity.

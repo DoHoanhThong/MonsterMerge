@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_314penguelectric
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 7
+  monster_name: MAGNEPENGUIN
+  monster_rarity: LEGENDARY
+  monster_id: 314
+  monster_ability: 'The Magnepenguin possesses a unique and captivating ability derived
+    from the fusion of penguin and electricity. It can generate and manipulate electrical
+    energy with remarkable finesse. The creature''s feathers crackle with electricity,
+    granting it enhanced agility both in and out of water. It can emit dazzling displays
+    of light from its electrified plumage, creating a mesmerizing spectacle that
+    captivates and disorients adversaries. The Magnepenguin can discharge controlled
+    electrical shocks, utilizing them as defensive mechanisms or as playful interactions
+    with its environment. Additionally, it can emit electrical pulses that aid in
+    navigation and communication with other Magnepenguins. '
+  monster_location: 'The Magnepenguin can be found in regions where the realms of
+    penguins and electricity intersect. It is often drawn to coastal areas with a
+    mix of cold climates and electrical activity, such as regions prone to thunderstorms
+    near the ocean. The creature seeks out locations where it can thrive in both
+    land and water, utilizing its electrifying abilities for hunting, communication,
+    and navigating its marine habitat. It is known to establish colonies in secluded
+    areas with access to ample food sources and suitable nesting grounds, reflecting
+    its penguin essence. '
+  monster_lifespan: The lifespan of an Magnepenguin is comparable to that of a regular
+    penguin, typically ranging from 15 to 20 years depending on the species.

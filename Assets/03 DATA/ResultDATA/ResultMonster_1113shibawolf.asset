@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_1113shibawolf
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: SHIBAWOLF
+  monster_rarity: COMMON
+  monster_id: 1113
+  monster_ability: 'The Shibawolf possesses a unique blend of abilities derived from
+    both the Shiba Inu and wolf realms. It combines the intelligence, loyalty, and
+    playful nature of a Shiba Inu with the keen senses, agility, and hunting instincts
+    of a wolf. The creature has a remarkable sense of smell, allowing it to track
+    scents over long distances. It retains the Shiba Inu''s spirited and independent
+    personality while also displaying the cooperative behavior and pack-oriented
+    instincts of a wolf. Additionally, the Shibawolf has an endearing charm that
+    can win over the hearts of both humans and animals alike. '
+  monster_location: 'The Shibawolf can be found in a variety of habitats, often favoring
+    regions where the realms of domestic dogs and wolves intersect. It can be encountered
+    in forests, grasslands, or even urban environments. The creature is adaptable
+    and can thrive in a range of locations as long as it has access to resources
+    and the opportunity to display its hunting instincts. It seeks out areas with
+    suitable denning sites, water sources, and ample prey or food availability. '
+  monster_lifespan: The lifespan of a Shibawolf is similar to that of a regular Shiba
+    Inu or wolf, typically ranging from 12 to 15 years.

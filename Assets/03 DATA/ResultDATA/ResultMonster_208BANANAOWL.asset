@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_208BANANAOWL
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 3
+  monster_name: OWLANA
+  monster_rarity: COMMON
+  monster_id: 208
+  monster_ability: 'The Owlana possesses a remarkable special ability: the power
+    of heightened perception. It has inherited the extraordinary vision and acute
+    hearing of an owl, granting it the ability to perceive the world with exceptional
+    clarity, even in the darkest of environments. The Owlana can spot minute details
+    and movements, making it an exceptional hunter and observer. Its keen senses
+    allow it to navigate through the night with ease, detecting even the faintest
+    of sounds and movements.'
+  monster_location: The Owlana is often found in diverse habitats that encompass
+    both lush tropical regions and wooded areas. It is particularly drawn to environments
+    where the tropical allure of bananas coincides with the presence of dense forests
+    and nocturnal activity. The Owlana is most at home in rainforests, woodlands,
+    and quiet groves, where it can fully utilize its heightened senses and blend
+    seamlessly with the natural beauty of its surroundings. It can be spotted perched
+    gracefully on branches, its banana-like features harmonizing with the darkness
+    of the night.
+  monster_lifespan: The lifespan of the Owlana is influenced by a combination of
+    factors, including its genetic makeup and the environment it inhabits. While
+    specific durations can vary, Owlana generally have a lifespan comparable to that
+    of owls. This can range from 10 to 20 years

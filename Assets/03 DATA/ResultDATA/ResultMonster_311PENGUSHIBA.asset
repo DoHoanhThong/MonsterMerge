@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_311PENGUSHIBA
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 6
+  monster_name: PENGUIBA
+  monster_rarity: EPIC
+  monster_id: 311
+  monster_ability: 'The Penguiba possesses a remarkable special ability: the power
+    of companionship and unwavering loyalty. Drawing inspiration from its Shiba Inu
+    lineage, the Penguiba is known for its deep sense of loyalty and devotion to
+    its chosen companions. It forms strong emotional bonds and displays unwavering
+    loyalty, always standing by the side of those it considers part of its pack.
+    Additionally, the Penguiba inherits the delightful playfulness and mischievousness
+    of a Shiba Inu, making it a delightful and entertaining companion.'
+  monster_location: 'The Penguiba can be found in various locations where penguins
+    and Shiba Inus coexist. It thrives in areas that offer a combination of aquatic
+    habitats and temperate landscapes. The Penguiba is often seen in coastal regions,
+    islands, and areas with moderate climates. It enjoys both land and water, showcasing
+    the penguin''s ability to swim and the Shiba Inu''s fondness for exploration
+    and outdoor activities. It can be spotted waddling along the shoreline or playfully
+    frolicking in the water. '
+  monster_lifespan: The lifespan of the Penguiba is influenced by various factors,
+    including its genetic makeup and the environment it inhabits. While specific
+    durations can vary,Penguiba generally have a lifespan comparable to that of Shiba
+    Inu. This can range from 12 to 15 years

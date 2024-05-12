@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42c578e88f693647afae01f7d2ab47c, type: 3}
+  m_Name: ResultMonster_109CATPEAKCOOK
+  m_EditorClassIdentifier: 
+  witdhofIM: 900
+  heightofIM: 900
+  monster_star: 4
+  monster_name: PEACAT
+  monster_rarity: RARE
+  monster_id: 109
+  monster_ability: 'The Peacat possesses a remarkable special ability: mesmerizing
+    beauty and hypnotic display. It combines the vibrant and captivating plumage
+    of a peacock with the grace and agility of a cat. This unique fusion allows the
+    Peafeline Monster to display an array of stunning and intricate patterns on its
+    feathers, which it can manipulate and showcase in a mesmerizing dance. Its enchanting
+    display has a hypnotic effect on those who witness it, captivating their attention
+    and momentarily immobilizing them. '
+  monster_location: The Peacat is commonly found in lush and tropical environments,
+    such as dense rainforests and vibrant gardens. It thrives in locations abundant
+    with vegetation and vibrant flora, which complement its stunning plumage. These
+    environments provide the Peafeline Monster with the ideal setting to showcase
+    its mesmerizing display, as it can blend seamlessly with the vibrant surroundings
+    while capturing the awe and attention of those who encounter it.
+  monster_lifespan: The lifespan of the Peacat is similar to that of a domestic cat,
+    ranging from 12 to 15 years.
